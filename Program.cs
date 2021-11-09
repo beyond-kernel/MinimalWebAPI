@@ -1,3 +1,7 @@
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Authorization;
+global using MinimalWebAPI.Model;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

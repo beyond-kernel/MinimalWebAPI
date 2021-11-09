@@ -1,0 +1,10 @@
+bin/Debug/net6.0/MinimalWebAPI.dll
+bin/Debug/net6.0/MinimalWebAPI.pdb
+Controllers/PokedexController.cs
+obj/staticwebassets.pack.sentinel
+obj/Debug/net6.0/MinimalWebAPI.AssemblyInfo.cs
+obj/Debug/net6.0/MinimalWebAPI.csproj.AssemblyReference.cache
+obj/Debug/net6.0/MinimalWebAPI.csproj.CopyComplete
+obj/Debug/net6.0/MinimalWebAPI.csproj.FileListAbsolute.txt
+obj/Debug/net6.0/MinimalWebAPI.dll
+obj/Debug/net6.0/MinimalWebAPI.pdb
