@@ -1,6 +1,6 @@
 global using Microsoft.AspNetCore.Mvc;
 global using Microsoft.AspNetCore.Authorization;
-global using MinimalWebAPI.Model;
+global using System.Linq;
 
 var builder = WebApplication.CreateBuilder(args);
 

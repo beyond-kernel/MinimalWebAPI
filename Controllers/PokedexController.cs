@@ -1,5 +1,3 @@
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Authorization;
 using MinimalWebAPI.Model;
 
 namespace MinimalWebAPI.Controllers

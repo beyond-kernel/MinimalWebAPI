@@ -1,4 +1,3 @@
-using System.Linq;
 namespace MinimalWebAPI.Model
 {
   public class Pokemon
